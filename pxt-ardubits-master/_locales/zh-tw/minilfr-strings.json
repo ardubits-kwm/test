@@ -1,0 +1,25 @@
+{
+    "minilfr.minilfrInit|block": "miniLFR 初始化",
+    "minilfr.spotLight|block": "車頭燈 左|%left 右|%right",
+    "minilfr.rgbBrightness|block": "RGB 亮度 %brighness",
+    "minilfr.hoverRgb|block": "車底燈RGB %rgb 顏色|%color",
+    "minilfr.motorSpeed|block": "車輪速度 左|%left 右|%right",
+    "minilfr.motorSpeedDelay|block": "車輪速度 左|%left 右|%right 持續|%ms ms",
+    "minilfr.motorStop|block": "小車停止",
+    "minilfr.buzz|block": "蜂鳴器|%freq hz 持續|%ms ms",
+    "minilfr.buzzMusic|block": "蜂鳴器播放 %music",
+    "minilfr.buzzBuildMusic|block": "蜂鳴器奏樂 %idx",
+    "minilfr.Ultrasonic|block": "超聲波距離",
+    "minilfr.SensorRead|block": "五路巡線感測器 %sensor 數值",
+    "minilfr.BatteryVoltage|block": "電池電壓",
+    "minilfr.infraSend|block": "紅外發送 %data",
+    "minilfr.onInfraGot|block": "當紅外接收",
+    "minilfr.goLinefollow|block": "進入巡線模式",
+    "minilfr.goObjavoid|block": "進入避障模式",
+    "minilfr.goIdle|block": "回到正常模式",
+    "minilfr.calibrateSensor|block": "巡線校準",
+    "minilfr.getMotorDiff|block": "獲取電機差速",
+    "minilfr.setMotorDiff|block": "設置電機速度差 %diff",
+    "minilfr.setSensorDebug|block": "開啟感測器調試 %dgb"
+}
+
